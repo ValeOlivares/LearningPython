@@ -28,5 +28,4 @@ print(name)
 
 #Forzar el tipo de la variable
 address: str = "Mi dirección 123"
-address("32")
 print(address)
